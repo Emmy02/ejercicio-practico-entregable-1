@@ -1,0 +1,13 @@
+*   3e0500e (HEAD -> feature/resta, origin/feature/resta) fixing conflicts with main
+|\  
+| *   325eb4f (origin/main, origin/HEAD, main) Merge pull request #2 from Emmy02/feature/suma
+| |\  
+| | * 9a530cb (origin/feature/suma, feature/suma) sum operation
+| |/  
+* / 0045cf3 sub operation
+|/  
+*   c9c949c Merge pull request #1 from Emmy02/feature/gitignore
+|\  
+| * 2554f80 (origin/feature/gitignore, feature/gitignore) adding ignore and evidences
+|/  
+* 016dd9a initial commit
