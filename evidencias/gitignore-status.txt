@@ -1,0 +1,23 @@
+enmanueldeoleo@Admins-MacBook-Pro-2 ejercicio-practico-entregable-1 % git status
+On branch feature/gitignore
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .gitignore
+        new file:   EVIDENCIAS.md
+        new file:   evidencias/assets/Screenshot-1.png
+        new file:   evidencias/assets/Screenshot-2.png
+        new file:   evidencias/assets/Screenshot-3.png
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   EVIDENCIAS.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .DS_Store
+        evidencias/.DS_Store
+        evidencias/assets/Screenshot-4.png
+        evidencias/gitignore-status.txt
+
+enmanueldeoleo@Admins-MacBook-Pro-2 ejercicio-practico-entregable-1 % 
