@@ -1,0 +1,15 @@
+1s
+Current runner version: '2.332.0'
+Runner Image Provisioner
+Operating System
+Runner Image
+GITHUB_TOKEN Permissions
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Complete job name: print_name
+0s
+Run echo "The full name is: Enmanuel Alejandro De Oleo"
+The full name is: Enmanuel Alejandro De Oleo
+0s
+Cleaning up orphan processes
